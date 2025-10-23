@@ -40,7 +40,7 @@ ORS_API_KEY = os.environ.get(
 ORS_URL = "https://api.openrouteservice.org/v2/directions/driving-car/geojson"
 
 # --- Liens Drive + Sheets fournis ---
-DRIVE_FOLDER_URL = "https://drive.google.com/drive/folders/1YScYE14xKgAeS6v6xZwHC_amWM-A7IWj?usp=sharing"
+DRIVE_FOLDER_URL = "https://drive.google.com/file/d/1fP2glevxgtzQdTgcLAsV2GsRzcYHj90W/view?usp=sharing"
 SHEETS = {
     "vehicules": "https://docs.google.com/spreadsheets/d/1udeDqG8M_MR9bnDcneqB2M1ov7Ya2tqTjgurEweAvVM/export?format=csv",
     "caract": "https://docs.google.com/spreadsheets/d/1BhBVi0-D6bDZf03FBIlcvkTFVaCsw8RMtjqQKcFCn6U/export?format=csv",
